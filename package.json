@@ -153,7 +153,7 @@
 		"behavior-code-processing": "git+https://git@github.com/quentinLeDilavrec/behavior-code-processing.git",
 		"behavior-trace-processing": "git+https://git@github.com/quentinLeDilavrec/behavior-trace-processing.git",
 		"chrome-instrumentation": "git+https://git@github.com/quentinLeDilavrec/Chrome-instrumentation.git",
-		"d3": "^5.9.7",
+		"d3": "^7.6.1",
 		"event-stream": "^4.0.1",
 		"mysql": "^2.17.1",
 		"pg": "^7.11.0",
